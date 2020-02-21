@@ -72,3 +72,10 @@ Processing by ApplicationController#show as HTML
 Completed 200 OK in 585ms (Views: 585.0ms | ActiveRecord: 0.0ms)
 
 
+Started GET "/hello_world" for ::1 at 2020-02-21 11:42:04 -0500
+Processing by ApplicationController#show as HTML
+  Rendering application/show.erb within layouts/application
+  Rendered application/show.erb within layouts/application (0.6ms)
+Completed 200 OK in 23ms (Views: 19.2ms | ActiveRecord: 0.0ms)
+
+
